@@ -1,7 +1,8 @@
  <h1 align="center">Hi 👋, I'm Noman Khan</h1>
- <h3 align="center">A Passionate Flutter Developer from Pakistan</h3>
-![git](https://github.com/Nomankhan65/Nomankhan65/assets/139708603/b8083408-0770-4ede-ba9a-2af79f23dc07)
 
+ ![git](https://github.com/Nomankhan65/Nomankhan65/assets/139708603/5df1a396-a283-4558-b254-42ab38474655)
+
+ <h3 align="center">A Passionate Flutter Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhan65&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhan65" /> </p>
 
 - 👨‍💻 All of my projects are available at [http://uojdl.000webhostapp.com/Home.html](http://uojdl.000webhostapp.com/Home.html)
