@@ -1,7 +1,6 @@
- <h1 align="center">Hi 👋, I'm Noman Khan</h1>
 
  ![git](https://github.com/Nomankhan65/Nomankhan65/assets/139708603/5df1a396-a283-4558-b254-42ab38474655)
-
+ <h1 align="center">Hi 👋, I'm Noman Khan</h1>
  <h3 align="center">A Passionate Flutter Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhan65&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhan65" /> </p>
 
