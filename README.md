@@ -3,7 +3,7 @@
  <h1 align="center">Hi 👋, I'm Noman Khan</h1>
  <h3 align="center">A Passionate Flutter Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhan65&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhan65" /> </p>
-- 👨‍💻 All of my projects are available at [http://uojdl.000webhostapp.com/Home.html](http://uojdl.000webhostapp.com/Home.html)
+- 👨‍💻 All of my projects are available at [http://uojdl.000webhostapp.com/Home.html] 
 
 - 📫 How to reach me **numankhansbg@gmail.com**
 
