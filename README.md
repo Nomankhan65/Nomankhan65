@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Noman Khan</h1>
- ![git](https://github.com/Nomankhan65/Nomankhan65/assets/139708603/e4410ce9-b8bc-4e6e-aa36-356103f03e48)
+ 
+![git](https://github.com/Nomankhan65/Nomankhan65/assets/139708603/b8083408-0770-4ede-ba9a-2af79f23dc07)
 
 <h3 align="center">A Passionate Flutter Developer from Pakistan</h3>
 
